@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1 {
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+#searchInput {
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#searchBtn {
+    margin-left: 10px;
+    border-radius: 20px;
+}
+#searchBtn:hover {
+    color: white;
+    background-color: black;
+}
+
+
+.profile-card {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    background: #fff;
+}
+
+.profile-card img {
+    width: 100%;
+    height: auto;
+}
